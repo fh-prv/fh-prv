@@ -42,7 +42,7 @@ I work 💻 with:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
